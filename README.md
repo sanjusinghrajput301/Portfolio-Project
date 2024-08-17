@@ -31,9 +31,7 @@ Clone the repository: git clone https://github.com/Rohitraj4513@/myportfolio.git
 Navigate to the project directory: cd myportfolio
 Open index.html in your browser.
 
-Screenshots
 
-![Screenshot 2024-07-12 234928](https://github.com/user-attachments/assets/f01ac6b4-93cb-4904-a6e0-de99dd5c19e8)
 
 
 
