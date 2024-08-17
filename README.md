@@ -26,10 +26,7 @@ Project Structure
 ![Screenshot 2024-07-12 235357](https://github.com/user-attachments/assets/070b8358-5a8c-4ca9-acce-a4edb9e36db4)
 
 
-Setup Instructions
-Clone the repository: git clone https://github.com/Rohitraj4513@/myportfolio.git
-Navigate to the project directory: cd myportfolio
-Open index.html in your browser.
+
 
 
 
